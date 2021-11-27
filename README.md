@@ -1,14 +1,3 @@
-# ebac-kotlin-telegram-bot
+# Telegram-Bot-Kotlin
 
-
-Estrutura base para o desenvolvimento de um bot para telegram com a linguagem kotlin \o/
-
-
-Tecnologias usadas:
-* [Telegram Bot Api](https://core.telegram.org/bots/api)
-* [Emoji Java](https://github.com/vdurmont/emoji-java)
-* [Gradle 7.3](https://gradle.org/install/)
-* Kotlin 1.5.31
-* [Código dos emojis](https://gist.github.com/rxaviers/7360908)
-
-Divirtam-se :)
+Bot para o Telegram 100% em Kotlin desenvolvido durante o WorkShop da EBAC, ministrado por Stephannie Suzart, Desenvolvedora backend Kotlin na C6 Bank.
